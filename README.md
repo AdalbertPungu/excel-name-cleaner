@@ -28,7 +28,9 @@ A lightweight Python script to **clean, normalize, and standardize name columns*
 
 ## Installation
 
-Make sure you have **Python 3.8+** installed.
+- Make sure you have **Python 3.8+** installed.
+- **VS Code** with [**Jupyter**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) Extension for Visual Studio Code *(optional but recommended)*
+
 
 ```bash
 pip install pandas openpyxl
